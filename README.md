@@ -1,5 +1,5 @@
 # LearnYouNode
-All 10 exercise for nodeschool.io's NodeJS workshop
+10/13 exercise for nodeschool.io's NodeJS workshop
 
 # install:
 $ npm install -g learnyounode
